@@ -1,0 +1,19 @@
+{
+    "Ayam Bakar": {
+        "harga": 15000,
+        "deskripsi": "Ayam yang dibakar",
+        "komposisi": [
+            "ayam",
+            "mentega"
+        ]
+    },
+    "Nasi Bakar": {
+        "harga": 11000,
+        "deskripsi": "nasi khas sunda yang di bakar",
+        "komposisi": [
+            "nasi",
+            "daun jeruk",
+            "ayam suwir"
+        ]
+    }
+}
