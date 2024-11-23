@@ -8,7 +8,7 @@ def reservasi_meja():
         reservations = {}
 
     print("\n=== Reservasi Meja ===")
-    meja = input("Masukkan nomor meja yang ingin dipesan (misal: Meja 1): ").title()
+    meja = input("Masukkan nomor meja yang ingin dipesan: ").title()
     if meja in reservations:
         print(f"Maaf, {meja} sudah dipesan.")
     else:
